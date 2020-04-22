@@ -12,7 +12,7 @@
             <entry key="ExchHost"/>
                               
             
-            <entry key="IQServiceHost" value="test.example.com"/>
+            <entry key="IQServiceHost" value="april.example.com"/>
                               
             
             <entry key="IQServicePort" value="389"/>
